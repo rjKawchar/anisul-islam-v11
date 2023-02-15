@@ -1,4 +1,4 @@
 My name is Kawchar.
 I am 25 years old.
-This is third line. 
-Fourth line add. conflict test.
+This is third line.
+Fourth line add. conflict test. It's main branch data.
